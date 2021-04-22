@@ -1,0 +1,76 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-family: "HelveticaHeavy";
+  font-size: 80px;
+}
+
+body {
+  background-image: url(img/background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+table {
+  border-collapse: collapse;
+  width: 1535px;
+  height: 790px;
+}
+
+table, td, th {
+  border: solid 1px #000000;
+}
+
+td, th {
+  height:98.75px;
+  width:191.875px;
+}
+
+@font-face {
+    font-family: "HelveticaThin";
+    src:url(fonts/HelveticaNeueLTStd-Th.otf);
+}
+
+@font-face {
+    font-family: "HelveticaRoman";
+    src:url(fonts/HelveticaNeueLTStd-Roman.otf);
+}
+
+@font-face {
+    font-family: "HelveticaMedium";
+    src:url(fonts/HelveticaNeueLTStd-Md.otf);
+}
+
+@font-face {
+    font-family: "HelveticaBold";
+    src:url(fonts/HelveticaNeueLTStd-Bdn.otf);
+}
+
+
+@font-face {
+    font-family: "HelveticaHeavy";
+    src:url(fonts/HelveticaNeueLTStd-Hv.otf);
+}
+
+@font-face {
+    font-family: "HelveticaBlack";
+    src:url(fonts/HelveticaNeueLTStd-Blk.otf);
+}
+
+@font-face {
+    font-family: "NotosansBold";
+    src:url(fonts/NotoSansCJKkr-Bold.otf);
+}
+
+@font-face {
+    font-family: "NotosansMedium";
+    src:url(fonts/NotoSansCJKkr-Medium.otf);
+}
+
+@font-face {
+    font-family: "NotosansRegular";
+    src:url(fonts/NotoSansCJKkr-Regular.otf);
+}
